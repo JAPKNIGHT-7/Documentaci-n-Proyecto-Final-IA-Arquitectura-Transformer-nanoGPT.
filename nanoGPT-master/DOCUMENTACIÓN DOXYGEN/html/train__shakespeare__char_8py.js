@@ -1,0 +1,26 @@
+var train__shakespeare__char_8py =
+[
+    [ "train_shakespeare_char.always_save_checkpoint", "namespacetrain__shakespeare__char.html#a3831fdd840c3f4f63859c6e916634992", null ],
+    [ "train_shakespeare_char.batch_size", "namespacetrain__shakespeare__char.html#a72033e09f9ff08aaf6bf8664883de7d1", null ],
+    [ "train_shakespeare_char.beta2", "namespacetrain__shakespeare__char.html#a2de4b2234b0a450f76c35c30b13169a8", null ],
+    [ "train_shakespeare_char.block_size", "namespacetrain__shakespeare__char.html#a8ef623f5c4a9db1adccf60142c96a460", null ],
+    [ "train_shakespeare_char.compile", "namespacetrain__shakespeare__char.html#a24da82203a3ac88cea9d81c761ce9a99", null ],
+    [ "train_shakespeare_char.dataset", "namespacetrain__shakespeare__char.html#a7ab917ebe9c45e6c3cc83b548cf0e055", null ],
+    [ "train_shakespeare_char.dropout", "namespacetrain__shakespeare__char.html#ab11b691e421df3cb3d4aa3919d13478a", null ],
+    [ "train_shakespeare_char.eval_interval", "namespacetrain__shakespeare__char.html#a806c9292fe9b6ddf08fa1356d7d326de", null ],
+    [ "train_shakespeare_char.eval_iters", "namespacetrain__shakespeare__char.html#a9509da068acb31ac9933940f93b1fe42", null ],
+    [ "train_shakespeare_char.gradient_accumulation_steps", "namespacetrain__shakespeare__char.html#a52e68393a5952405ddbbc91e0117a407", null ],
+    [ "train_shakespeare_char.learning_rate", "namespacetrain__shakespeare__char.html#ac6cf54552d7f0e3b9bd34bd9273f576a", null ],
+    [ "train_shakespeare_char.log_interval", "namespacetrain__shakespeare__char.html#a9745bc15d49106067663ce2ef16e205b", null ],
+    [ "train_shakespeare_char.lr_decay_iters", "namespacetrain__shakespeare__char.html#af555f9a50f930300a163e795e67f13b6", null ],
+    [ "train_shakespeare_char.max_iters", "namespacetrain__shakespeare__char.html#a2430e9c168a56cf7f81edba885ab9ec1", null ],
+    [ "train_shakespeare_char.min_lr", "namespacetrain__shakespeare__char.html#ac44ee3dd4f266255f6aea9a1be3c8508", null ],
+    [ "train_shakespeare_char.n_embd", "namespacetrain__shakespeare__char.html#a9aa34ecb34e770cf30e61aa09072cf04", null ],
+    [ "train_shakespeare_char.n_head", "namespacetrain__shakespeare__char.html#aeebe7d6ecba66f5bb8fa6421683980a0", null ],
+    [ "train_shakespeare_char.n_layer", "namespacetrain__shakespeare__char.html#a8c32d1872c1bd679f57988619c855e1e", null ],
+    [ "train_shakespeare_char.out_dir", "namespacetrain__shakespeare__char.html#a982ad52315814bdb6b7dd094b2836ee2", null ],
+    [ "train_shakespeare_char.wandb_log", "namespacetrain__shakespeare__char.html#a0e8803a765f3ee2fb044d32261410351", null ],
+    [ "train_shakespeare_char.wandb_project", "namespacetrain__shakespeare__char.html#a46c200e468c69a7cb12254fcf7e7b2da", null ],
+    [ "train_shakespeare_char.wandb_run_name", "namespacetrain__shakespeare__char.html#ac1e1734e9cf8c40ea6a09a6109f1258c", null ],
+    [ "train_shakespeare_char.warmup_iters", "namespacetrain__shakespeare__char.html#a817a30ca8ca7b69ecd6dc58dc4f4e2de", null ]
+];

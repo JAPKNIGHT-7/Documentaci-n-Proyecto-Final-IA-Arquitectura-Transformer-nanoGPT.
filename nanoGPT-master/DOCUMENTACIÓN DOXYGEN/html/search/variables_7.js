@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['gelu_0',['gelu',['../classmodel_1_1_m_l_p.html#aa5ef1d8bf4e609ee0f06bde80057bdce',1,'model::MLP']]],
+  ['get_5fbatch_1',['get_batch',['../namespacebench.html#a4975f9bfd82af48aadd49cc8be0111b5',1,'bench']]],
+  ['gptconf_2',['gptconf',['../namespacebench.html#a1a4b3229ab27ce72f5a7db82478a2257',1,'bench.gptconf'],['../namespacesample.html#ab19f55341ce63f60a5713638a0ae8f56',1,'sample.gptconf'],['../namespacetrain.html#af90cf4ab5996e2a5a831847f46f58d88',1,'train.gptconf']]],
+  ['grad_5fclip_3',['grad_clip',['../namespacetrain.html#a7dd85c9c43d7424a9173ee8950e1b9ac',1,'train']]],
+  ['gradient_5faccumulation_5fsteps_4',['gradient_accumulation_steps',['../namespacefinetune__shakespeare.html#a17033813cf2cdda567fac116a2ae8b38',1,'finetune_shakespeare.gradient_accumulation_steps'],['../namespacetrain__gpt2.html#aa02de6a0610b92569c75191e4e30e1ea',1,'train_gpt2.gradient_accumulation_steps'],['../namespacetrain__quijote__char.html#a2fca1853d5a5ef2fad7f87b59702d7fd',1,'train_quijote_char.gradient_accumulation_steps'],['../namespacetrain__shakespeare__char.html#a52e68393a5952405ddbbc91e0117a407',1,'train_shakespeare_char.gradient_accumulation_steps'],['../namespacetrain.html#ad23e0822c1e91c36fb20b9b3c5faacd0',1,'train.gradient_accumulation_steps']]]
+];

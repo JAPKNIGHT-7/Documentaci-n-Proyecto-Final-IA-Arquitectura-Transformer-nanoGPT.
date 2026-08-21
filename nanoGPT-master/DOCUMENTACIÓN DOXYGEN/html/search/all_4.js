@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['c_5fattn_0',['c_attn',['../classmodel_1_1_causal_self_attention.html#a453eb0c0e349cc84393c0163c26d21fe',1,'model::CausalSelfAttention']]],
+  ['c_5ffc_1',['c_fc',['../classmodel_1_1_m_l_p.html#a112776d87e23646fb2da6032925a059d',1,'model::MLP']]],
+  ['c_5fproj_2',['c_proj',['../classmodel_1_1_causal_self_attention.html#af21f7f93a33bbb4bf1b942849c647763',1,'model.CausalSelfAttention.c_proj'],['../classmodel_1_1_m_l_p.html#a17eecf556d1914e163762038d0c65cc3',1,'model.MLP.c_proj']]],
+  ['calcular_5fatencion_3',['calcular_atencion',['../namespacemultiattention__visualizer.html#a4afbba0376eea5765f479dd7f988894a',1,'multiattention_visualizer']]],
+  ['candidatos_4',['candidatos',['../namespacemultiattention__visualizer.html#a34e3dc210c83ccf0f2ae790839d5e56c',1,'multiattention_visualizer']]],
+  ['capturado_5',['capturado',['../namespacemultiattention__visualizer.html#a3549960624ea7407d8f1d0478150f674',1,'multiattention_visualizer']]],
+  ['causalselfattention_6',['CausalSelfAttention',['../classmodel_1_1_causal_self_attention.html',1,'model']]],
+  ['character_20level_7',['tiny shakespeare, character-level',['../dir_d7e3fc33f4ff761cbddcfffd8b14f3a4.html#autotoc_md2',1,'']]],
+  ['chars_8',['chars',['../namespaceprepare.html#a01a4f235931e99f3a5841bc1021eaecf',1,'prepare']]],
+  ['checkpoint_9',['checkpoint',['../namespacesample.html#ad3773bb390fe4fe5298dba3448ec1d7b',1,'sample.checkpoint'],['../namespacetrain.html#ad07b8092fec08163cefb509efd602532',1,'train.checkpoint']]],
+  ['checkpoint_5fmodel_5fargs_10',['checkpoint_model_args',['../namespacetrain.html#a168ae1c0e758733da521df9ac3d4d3fa',1,'train']]],
+  ['ckpt_11',['ckpt',['../namespacemultiattention__visualizer.html#a339e99e8f4b23bd802d1793ae74711f5',1,'multiattention_visualizer']]],
+  ['ckpt_5fpath_12',['ckpt_path',['../namespacesample.html#ac3dfb9c6f7cb32d051ad7a13f8a70806',1,'sample.ckpt_path'],['../namespacetrain.html#aa58a65b20d7e2e3afd3471bdda946180',1,'train.ckpt_path']]],
+  ['compile_13',['compile',['../namespacebench.html#a8832a08f2725cad437c4faa3efa78469',1,'bench.compile'],['../namespacetrain__quijote__char.html#a431a62aa4bfc3089e78e53c1a4ce53ea',1,'train_quijote_char.compile'],['../namespacetrain__shakespeare__char.html#a24da82203a3ac88cea9d81c761ce9a99',1,'train_shakespeare_char.compile'],['../namespacesample.html#a31057b1362fb54b75ca4688ece0da494',1,'sample.compile'],['../namespacetrain.html#a14de286a28b2b85cd33af53d72732722',1,'train.compile']]],
+  ['config_14',['config',['../classmodel_1_1_g_p_t.html#a0cd271ddf2a054f7d685cefbcdb74b17',1,'model.GPT.config'],['../namespacetrain.html#a4442a4994207f2157d895593020ebd9d',1,'train.config']]],
+  ['config_5ffile_15',['config_file',['../namespaceconfigurator.html#aa5d7b3672404af0796be8cb8f69c569c',1,'configurator']]],
+  ['config_5fkeys_16',['config_keys',['../namespacetrain.html#a35e44ee4897f693ad29a3868642fcfb1',1,'train']]],
+  ['configurator_17',['configurator',['../namespaceconfigurator.html',1,'']]],
+  ['configurator_2epy_18',['configurator.py',['../configurator_8py.html',1,'']]],
+  ['configure_5foptimizers_19',['configure_optimizers',['../classmodel_1_1_g_p_t.html#af9342ce36e8ebaa9d552ee2e0aef2df0',1,'model::GPT']]],
+  ['crop_5fblock_5fsize_20',['crop_block_size',['../classmodel_1_1_g_p_t.html#a3f82a185be34cbb236390d48bb64f551',1,'model::GPT']]],
+  ['ctx_21',['ctx',['../namespacebench.html#a7f26c0b9e003759d398e079554747ab4',1,'bench.ctx'],['../namespacesample.html#a0a4687cf309f4cedc8407fe7be044a89',1,'sample.ctx'],['../namespacetrain.html#a32b0934507dd28bb3d329a946230cd6d',1,'train.ctx']]]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['data_0',['data',['../namespaceprepare.html#ac6ecf4029b2ad56501130d9ca0a8793b',1,'prepare']]],
+  ['data_5fdir_1',['data_dir',['../namespacebench.html#ae61b13d8e1db905e2f7eb00a418d627e',1,'bench.data_dir'],['../namespacetrain.html#a42654dca4f0f80b8285ef00482c43800',1,'train.data_dir']]],
+  ['data_5furl_2',['data_url',['../namespaceprepare.html#a4045e4c2c0e071bba7663cfd45774006',1,'prepare']]],
+  ['dataset_3',['dataset',['../namespacebench.html#a91b204fc2d0e65d475fc54490210eb41',1,'bench.dataset'],['../namespacefinetune__shakespeare.html#a2dad10fff3f664d19077a01f59d578b8',1,'finetune_shakespeare.dataset'],['../namespacetrain__quijote__char.html#a1fcc898c9af36763d302b7128c015716',1,'train_quijote_char.dataset'],['../namespacetrain__shakespeare__char.html#a7ab917ebe9c45e6c3cc83b548cf0e055',1,'train_shakespeare_char.dataset'],['../namespaceprepare.html#abcb71a5d62a55de41189eea23f9b4870',1,'prepare.dataset'],['../namespacetrain.html#ac37e0cf3d71677823fba97c4d33a71a5',1,'train.dataset'],['../dir_083fe6f54a66b2090bd1584dbe729e0c.html#autotoc_md0',1,'openwebtext dataset']]],
+  ['ddp_4',['ddp',['../namespacetrain.html#ae43d248cab0b2a22087309938b63e1f5',1,'train']]],
+  ['ddp_5flocal_5frank_5',['ddp_local_rank',['../namespacetrain.html#ac3fc5558e6e9da4e4d50bfdcaecd6daf',1,'train']]],
+  ['ddp_5frank_6',['ddp_rank',['../namespacetrain.html#a00ce7733a52e700a49e5cb3ba4504a2e',1,'train']]],
+  ['ddp_5fworld_5fsize_7',['ddp_world_size',['../namespacetrain.html#ad498aa1eb501d5afc7e0da4165874c9d',1,'train']]],
+  ['decay_5flr_8',['decay_lr',['../namespacefinetune__shakespeare.html#a8350b2d56ad814cf05bea0b40c04699f',1,'finetune_shakespeare.decay_lr'],['../namespacetrain.html#ab86a06a28459b86ebea5347e983bde33',1,'train.decay_lr']]],
+  ['decode_9',['decode',['../namespacemultiattention__visualizer.html#a586702642cadf51235d9f85e8e5a5d0b',1,'multiattention_visualizer.decode'],['../namespacesample.html#ad4d9b4b9376c86a9489428ffcac6e932',1,'sample.decode'],['../namespaceprepare.html#a86cc5ee372619cc4fde5afffa5cfb9ff',1,'prepare.decode(l)']]],
+  ['desc_10',['desc',['../namespaceprepare.html#af9fd7986888a9591bc594a4fe099d7b6',1,'prepare']]],
+  ['device_11',['DEVICE',['../namespacemultiattention__visualizer.html#ada99d110e8e4b10a6cccd87984a3ae7f',1,'multiattention_visualizer']]],
+  ['device_12',['device',['../namespacebench.html#a91e971981f9c525b2b72256451a119ae',1,'bench.device'],['../namespacesample.html#a809e1c260653dc6eadc159df44edac9a',1,'sample.device'],['../namespacetrain.html#abbb45b7fbd430f9865bcd6dbde4fac78',1,'train.device']]],
+  ['device_5ftype_13',['device_type',['../namespacebench.html#a4bc866da678a3e5c5e9209a7510f7caf',1,'bench.device_type'],['../namespacesample.html#a8261e2c20e20c4e52fde72c96ce33ef5',1,'sample.device_type'],['../namespacetrain.html#a4b52b19fd2b563f1339ec91817a4023d',1,'train.device_type']]],
+  ['dropout_14',['dropout',['../classmodel_1_1_causal_self_attention.html#a563bcaa2036606bf058517ca5c977aa6',1,'model.CausalSelfAttention.dropout'],['../classmodel_1_1_m_l_p.html#a839b71ada0c76953b643f89b0d3d1f11',1,'model.MLP.dropout'],['../classmodel_1_1_g_p_t_config.html#a0ca74e978ca11e875d3f2bc9a71cb624',1,'model.GPTConfig.dropout'],['../namespacetrain__quijote__char.html#a45d78514f732cd169f28dd84b113c872',1,'train_quijote_char.dropout'],['../namespacetrain__shakespeare__char.html#ab11b691e421df3cb3d4aa3919d13478a',1,'train_shakespeare_char.dropout'],['../namespacetrain.html#a82f00e911598dc3cad3008d96cda918d',1,'train.dropout']]],
+  ['dt_15',['dt',['../namespacebench.html#abec5a71e67660326c57b516516c99d2c',1,'bench.dt'],['../namespacetrain.html#aaa1a2e4d34bfcce5fbdeb62999345a61',1,'train.dt']]],
+  ['dtype_16',['dtype',['../namespacebench.html#aa5035591c0a856acdc24f7039b655d2a',1,'bench.dtype'],['../namespaceprepare.html#afa1ab11d616bdad5c6d9ca0ff3a11f99',1,'prepare.dtype'],['../namespacesample.html#a4d703072126211e501f8abe26b3e526d',1,'sample.dtype'],['../namespacetrain.html#a10b16ac26ba0a51e5b572ea35e147381',1,'train.dtype']]]
+];

@@ -1,0 +1,26 @@
+var train__quijote__char_8py =
+[
+    [ "train_quijote_char.always_save_checkpoint", "namespacetrain__quijote__char.html#a4b9c1a8d92b36bf53e99e5339eabd157", null ],
+    [ "train_quijote_char.batch_size", "namespacetrain__quijote__char.html#afedf60260adfbde3b280f87c363944c1", null ],
+    [ "train_quijote_char.beta2", "namespacetrain__quijote__char.html#a06b1c32315a28e8a9f0548cdf6a714e6", null ],
+    [ "train_quijote_char.block_size", "namespacetrain__quijote__char.html#aa38ee339ea079eddddc4f70cb31ce90e", null ],
+    [ "train_quijote_char.compile", "namespacetrain__quijote__char.html#a431a62aa4bfc3089e78e53c1a4ce53ea", null ],
+    [ "train_quijote_char.dataset", "namespacetrain__quijote__char.html#a1fcc898c9af36763d302b7128c015716", null ],
+    [ "train_quijote_char.dropout", "namespacetrain__quijote__char.html#a45d78514f732cd169f28dd84b113c872", null ],
+    [ "train_quijote_char.eval_interval", "namespacetrain__quijote__char.html#a1e89f5d8a927d2716813cad251585b26", null ],
+    [ "train_quijote_char.eval_iters", "namespacetrain__quijote__char.html#a795db11669154bc2e1de839a7b8ab147", null ],
+    [ "train_quijote_char.gradient_accumulation_steps", "namespacetrain__quijote__char.html#a2fca1853d5a5ef2fad7f87b59702d7fd", null ],
+    [ "train_quijote_char.learning_rate", "namespacetrain__quijote__char.html#af57b7c9f843b900da94cc9d540c6ad7f", null ],
+    [ "train_quijote_char.log_interval", "namespacetrain__quijote__char.html#aa289172f12cc3a0abea2b7eeba67e772", null ],
+    [ "train_quijote_char.lr_decay_iters", "namespacetrain__quijote__char.html#af5e231937e141dc91d1b84bc2b1ab252", null ],
+    [ "train_quijote_char.max_iters", "namespacetrain__quijote__char.html#add76e2ee31f7b09360f7bc73bed6ce65", null ],
+    [ "train_quijote_char.min_lr", "namespacetrain__quijote__char.html#a47356a3de40d99e0ab8a4cb4148738fa", null ],
+    [ "train_quijote_char.n_embd", "namespacetrain__quijote__char.html#af7124687b869c1d76ad2857ea94e9b8b", null ],
+    [ "train_quijote_char.n_head", "namespacetrain__quijote__char.html#a3a69492b46c97dc7d445ec22ac0b26af", null ],
+    [ "train_quijote_char.n_layer", "namespacetrain__quijote__char.html#a31a011e4a318058b686fab87e0c76329", null ],
+    [ "train_quijote_char.out_dir", "namespacetrain__quijote__char.html#a31f543eee9921081cfa242a7839015f3", null ],
+    [ "train_quijote_char.wandb_log", "namespacetrain__quijote__char.html#ae85da71d059805af482d71978826bc15", null ],
+    [ "train_quijote_char.wandb_project", "namespacetrain__quijote__char.html#a245e6d36038dc40c70849247ba776304", null ],
+    [ "train_quijote_char.wandb_run_name", "namespacetrain__quijote__char.html#a0b6e3859f2680ca888acc7d0acfa39fb", null ],
+    [ "train_quijote_char.warmup_iters", "namespacetrain__quijote__char.html#a101db95ef658d9ae654016fecf6719de", null ]
+];
